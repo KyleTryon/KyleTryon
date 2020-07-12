@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Kyle 👋
+
+Developer, dev-ops engineer, educator and content creator!
+
+Creator of TechSquid.tv on YouTube!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/TechSquidTV?style=social)
+[![Linkedin Add](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kyle-tryon-78a44a79/)
 
 <!--
 **KyleTryon/KyleTryon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
