@@ -1,6 +1,6 @@
 # Hi, I'm Kyle 👋
 
-Developer, dev-ops engineer, educator and content creator!
+Developer, DevOps engineer, educator and content creator.
 Creator of [TechSquid.TV](http://TechSquid.tv) on YouTube!
 [![Learn Docker in 5 minutes | TechSquidTV](https://github.com/KyleTryon/KyleTryon/raw/master/img/docker-in-5.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)[![Learn Docker-Compose | TechSquidTV](https://github.com/KyleTryon/KyleTryon/raw/master/img/docker-compose.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)[![Build a 23TB Plex Media Server with Docker | TechSquidTV](https://github.com/KyleTryon/KyleTryon/raw/master/img/docker-plex.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)
 
