@@ -1,23 +1,7 @@
 # Hi, I'm Kyle 👋
 
 Developer, dev-ops engineer, educator and content creator!
+Creator of [TechSquid.TV](http://TechSquid.tv) on YouTube!
+[![Learn Docker in 5 minutes | TechSquidTV](./img/docker-in-5.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)[![Learn Docker-Compose | TechSquidTV](./img/docker-compose.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)[![Build a 23TB Plex Media Server with Docker | TechSquidTV](./img/docker-plex.png)](https://www.youtube.com/watch?v=_dfLOzuIg2o&list=PLFYZ2t2IEzy3CdJPqQib7t9vY5_BrOuq9)
 
-Creator of TechSquid.tv on YouTube!
-
-![Twitter Follow](https://img.shields.io/twitter/follow/TechSquidTV?style=social)
-[![Linkedin Add](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kyle-tryon-78a44a79/)
-
-<!--
-**KyleTryon/KyleTryon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Twitter Follow](https://img.shields.io/twitter/follow/TechSquidTV?style=social)[![Linkedin Add](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/kyle-tryon-78a44a79/)
