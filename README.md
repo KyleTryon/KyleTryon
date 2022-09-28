@@ -11,8 +11,8 @@ I'm a Staff Software Development Engineer [@CircleCI](https://github.com/CircleC
 
 ## 📺 Best Videos
 
-|  |  |  |
+| **What is Docker in 5 Minutes** | **23 TB Plex Server with Docker** |  **What is Kubernetes in 10 minutes** |
 | --- | --- | --- |
-|  [![What is Docker in 5 Minutes](https://i.ytimg.com/vi/_dfLOzuIg2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI6Tn6NK4hxsBHO6un1jeMPOGT4A)](https://www.youtube.com/watch?v=_dfLOzuIg2o) **What is Docker in 5 Minutes**  |  [![23 TB Plex Server with Docker](https://i.ytimg.com/vi/3eNH4R2YTrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFBd3yEFN7EW0irVVxL2a-voYjAw)](https://www.youtube.com/watch?v=3eNH4R2YTrw) **23 TB Plex Server with Docker**   |  [![What is Kubernetes in 10 minutes](https://i.ytimg.com/an_webp/RaM1DFqQOm4/mqdefault_6s.webp?du=3000&sqp=CMzazpkG&rs=AOn4CLA8gkktHCwpGc86obFUaGe3lz3Vdw)](https://www.youtube.com/watch?v=RaM1DFqQOm4) **What is Kubernetes in 10 minutes**   |
+|  [![What is Docker in 5 Minutes](https://i.ytimg.com/vi/_dfLOzuIg2o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI6Tn6NK4hxsBHO6un1jeMPOGT4A)](https://www.youtube.com/watch?v=_dfLOzuIg2o) <br /> Over half a million views and #3 on YouTube for "Docker"  |  [![23 TB Plex Server with Docker](https://i.ytimg.com/vi/3eNH4R2YTrw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFBd3yEFN7EW0irVVxL2a-voYjAw)](https://www.youtube.com/watch?v=3eNH4R2YTrw) <br /> Use an old computer for the ultimate media PC with Docker   |  [![What is Kubernetes in 10 minutes](https://i.ytimg.com/an_webp/RaM1DFqQOm4/mqdefault_6s.webp?du=3000&sqp=CMzazpkG&rs=AOn4CLA8gkktHCwpGc86obFUaGe3lz3Vdw)](https://www.youtube.com/watch?v=RaM1DFqQOm4) <br /> If you have 10 minutes, I'll bring you up to speed on K8s  |
 
 
